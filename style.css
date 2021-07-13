@@ -1,0 +1,94 @@
+.pul {
+    background: #1B3341;
+    align-items: center;
+}
+
+#contnr {
+    width: 100%;
+}
+
+li {
+    color: #fff;
+}
+
+#cont {
+    margin-top: 60px;
+    text-align: center;
+}
+
+#lst {
+    font-family: luminary, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.menu {
+    position: relative;
+    background: #1B3341;
+    border: none;
+}
+
+.conte {
+    position: absolute;
+    margin: auto;
+    top: 20%;
+    background: #ABABAC;
+}
+
+.ikns img {
+    height: 20px;
+    width: 20px;
+}
+
+.contct img {
+    height: 30px;
+    width: 30px;
+    margin-left: -10%;
+}
+
+.brnd {
+    position: relative;
+    font-size: 20px;
+    background: #939AA0;
+    color: #000;
+}
+
+#nob {
+    text-decoration: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.smop {
+    /*float: right;
+    margin-right: -110px;
+    margin-top: 10px;*/
+}
+
+.jmbt {
+    padding: 0px;
+    margin-top: -20px;
+    background: url(bannr.jpg)no-repeat center;
+    -webkit-background-size: cover;
+    height: 400px;
+}
+
+.sectnmn {
+    color: #ffffff;
+    background: transparent;
+}
+
+.cntnt {
+    margin-top: -30px;
+}
+
+.sho {
+    padding: 5px;
+}
+
+.affix {
+    top: 0;
+    width: 100%;
+    z-index: 9999 !important;
+}
+
+.affix+.container-fluid {
+    padding-top: 70px;
+}

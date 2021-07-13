@@ -1,2 +1,2 @@
-# responsivenessTest.github.io
-wkjfbwflja
+# DijestITServices
+Practice Project
